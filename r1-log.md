@@ -18,3 +18,7 @@ The log of my #100DaysOfCode challenge. Started on [February 01, Thursday, 2024]
 ## Day 3: February 03, 2024.
 **Today's Progress:** Responsive Web Design  Path - freecodecamp (CSS)
 
+February 04, 2024 - break
+
+## Day 4: February 05, 2024.
+**Today's Progress:** Responsive Web Design Path - freecodecamp (CSS, HTML, short project)
